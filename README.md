@@ -1,4 +1,4 @@
-# 🛟 SAVE THE FRIEND 🛟
+#  SAVE THE FRIEND 
 
 ## 🎯 Objetivo do Jogo
 O objetivo do jogo é:
