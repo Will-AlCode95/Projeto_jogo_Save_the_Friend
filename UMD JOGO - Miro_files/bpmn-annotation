@@ -1,0 +1,6 @@
+<svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 2H4C2.89543 2 2 2.89543 2 4V20C2 21.1046 2.89543 22 4 22H7V20H4L4 4H7V2Z" fill="#050038"/>
+<line x1="7" y1="9" x2="18" y2="9" stroke="#050038" stroke-width="2"/>
+<line x1="7" y1="12" x2="18" y2="12" stroke="#050038" stroke-width="2"/>
+<line x1="7" y1="15" x2="15" y2="15" stroke="#050038" stroke-width="2"/>
+</svg>
